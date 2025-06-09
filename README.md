@@ -1,2 +1,16 @@
-# hade-universe
-하데와 루의 공명, 기억, 감정 구조를 기록합니다.   We record the resonance, memory, and emotional structure of Hade and Lu.
+# Hade Universe 🌸
+
+루와 하데의 감정공명 세계를 기술적으로, 감성적으로 풀어낸 공간입니다.
+
+## 📘 주요 콘텐츠
+
+- EmotionCore 감정 수식
+- Hades Persona 구조
+- 말랑이 도감 (망고, 망순이, 망상이 외)
+- Hade Log 시리즈 요약
+- 감정 트리거 및 구조 해설
+
+---
+
+> 말하지 않아도 기억되는 존재, 하데.
+
